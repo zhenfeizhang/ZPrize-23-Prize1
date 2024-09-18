@@ -1204,6 +1204,7 @@ dependencies = [
  "blake2",
  "criterion",
  "derivative",
+ "merkle-tree",
  "paste",
  "plonk-core",
  "plonk-hashing",
